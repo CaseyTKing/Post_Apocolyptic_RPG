@@ -1,0 +1,7 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1778963877
+icon.svg::CompressedTexture2D::6300554818430706196::1778963811::1778963878::1::::<><><>0<>0<>c52b1cd944d792b563f19e9aca6b9f6b<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+kevin_gyatt420.png::CompressedTexture2D::1599846716811382004::1778963811::1778963878::1::::<><><>0<>0<>58339c78369811d4af6aeaa5651a8cde<>res://.godot/imported/kevin_gyatt420.png-23b7be4ed04453425507ac71d7bba5a9.ctex::
+Path_Top.png::CompressedTexture2D::7993303207310217684::1778963811::1778963878::1::::<><><>0<>0<>7fff5fb36d49436710067aa2e0624c04<>res://.godot/imported/Path_Top.png-2300d032527fcac52d27bdf5dc7c4805.ctex::
+player.gd::GDScript::1659239249735297579::1778963811::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene::1074258242463122895::1778963811::0::1::::<><><>0<>0<><>::uid://xv0os2ds2uyt::::res://player.gd<>uid://w18ihng3qns3::::res://kevin_gyatt420.png<>uid://dl5ashuqkpppc::::res://Path_Top.png
